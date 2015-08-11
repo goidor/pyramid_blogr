@@ -11,7 +11,7 @@ requires = [
     'pyramid_mako', # replaces default chameleon templates
     'pyramid_debugtoolbar',
     'pyramid_tm',
-    'SQLAlchemy',
+    'SQLAlchemy==1.0.8',
     'transaction',
     'zope.sqlalchemy',
     'waitress',
