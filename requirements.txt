@@ -1,0 +1,26 @@
+Mako==1.0.1
+MarkupSafe==0.23
+PasteDeploy==1.5.2
+Pygments==2.0.2
+SQLAlchemy==1.0.8
+WTForms==2.0.2
+WebHelpers2==2.0
+WebOb==1.5.0a1
+argparse==1.2.1
+paginate==0.4.3
+paginate-sqlalchemy==0.2.0
+pyramid==1.6a2
+-e git+https://github.com/goidor/pyramid_blogr.git@acae4d8cf12dc19d780bee3c773afa780c1ed11b#egg=pyramid_blogr-openshift/master
+pyramid-debugtoolbar==2.4
+pyramid-mako==1.0.2
+pyramid-tm==0.12
+repoze.lru==0.6
+six==1.9.0
+transaction==1.4.4
+translationstring==1.3
+venusian==1.0
+waitress==0.8.9
+wsgiref==0.1.2
+zope.deprecation==4.1.2
+zope.interface==4.1.2
+zope.sqlalchemy==0.7.6
