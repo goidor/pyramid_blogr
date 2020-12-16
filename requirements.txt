@@ -9,7 +9,7 @@ WebOb==1.5.0a1
 argparse==1.2.1
 paginate==0.4.3
 paginate-sqlalchemy==0.2.0
-pyramid==1.6a2
+pyramid==2.0b0
 -e git+https://github.com/goidor/pyramid_blogr.git@acae4d8cf12dc19d780bee3c773afa780c1ed11b#egg=pyramid_blogr-openshift/master
 pyramid-debugtoolbar==2.4
 pyramid-mako==1.0.2
