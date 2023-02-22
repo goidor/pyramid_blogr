@@ -2,7 +2,7 @@ Mako==1.0.1
 MarkupSafe==0.23
 PasteDeploy==1.5.2
 Pygments==2.0.2
-SQLAlchemy==1.0.8
+SQLAlchemy==1.2.18
 WTForms==2.0.2
 WebHelpers2==2.0
 WebOb==1.5.0a1
@@ -24,3 +24,4 @@ wsgiref==0.1.2
 zope.deprecation==4.1.2
 zope.interface==4.1.2
 zope.sqlalchemy==0.7.6
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
