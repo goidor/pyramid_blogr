@@ -24,3 +24,4 @@ wsgiref==0.1.2
 zope.deprecation==4.1.2
 zope.interface==4.1.2
 zope.sqlalchemy==0.7.6
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
