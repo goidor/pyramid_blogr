@@ -5,7 +5,7 @@ Pygments==2.0.2
 SQLAlchemy==1.0.8
 WTForms==2.0.2
 WebHelpers2==2.0
-WebOb==1.5.0a1
+WebOb==1.8.8
 argparse==1.2.1
 paginate==0.4.3
 paginate-sqlalchemy==0.2.0
